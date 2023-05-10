@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\ingar\source\repos\Tesi\Tesi\test.cpp(80,22): warning C4244: '=': conversione da 'double' a 'long'. Possibile perdita di dati.
+C:\Users\ingar\source\repos\Tesi\Tesi\test.cpp(136,18): warning C4244: '=': conversione da 'double' a 'long'. Possibile perdita di dati.
+C:\Users\ingar\source\repos\Tesi\Tesi\test.cpp(50,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ingar\source\repos\Tesi\Tesi\test.cpp(69,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ingar\source\repos\Tesi\Tesi\test.cpp(95,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ingar\source\repos\Tesi\Tesi\test.cpp(96,27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Tesi.vcxproj -> C:\Users\ingar\source\repos\Tesi\x64\Debug\Tesi.exe
